@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
 | ------- |
