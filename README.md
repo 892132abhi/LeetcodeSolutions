@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3794-reverse-string-prefix](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3794-reverse-string-prefix](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
