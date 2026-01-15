@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
