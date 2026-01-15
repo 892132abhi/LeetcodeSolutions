@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
@@ -83,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
