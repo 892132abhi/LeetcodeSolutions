@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0260-single-number-iii) |
 ## Stack
 |  |
 | ------- |
