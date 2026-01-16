@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1816-truncate-sentence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1816-truncate-sentence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3794-reverse-string-prefix](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3794-reverse-string-prefix) |
