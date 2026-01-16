@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1816-truncate-sentence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1816-truncate-sentence) |
