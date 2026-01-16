@@ -4,5 +4,4 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        res = pow(x,.5)
-        return int(res)
+        return int(pow(x,.5))
