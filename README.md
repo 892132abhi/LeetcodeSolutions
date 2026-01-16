@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0344-reverse-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0260-single-number-iii) |
 ## Stack
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
