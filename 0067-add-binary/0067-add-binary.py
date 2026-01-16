@@ -5,7 +5,5 @@ class Solution(object):
         :type b: str
         :rtype: str
         """
-        res =int(a,2)
-        res2 = int(b,2)
-        value = res+res2
-        return format(value,"b")
+        res = int(a,2)+int(b,2)
+        return format(res,"b")
