@@ -4,9 +4,8 @@ class Solution(object):
         :type digits: List[int]
         :rtype: List[int]
         """
-        res=""
-        for i in digits:
-            res+=str(i)
-        res2 = list(str(int(res)+1))
-        fin = [int(i) for i in res2]
-        return fin
+        val = [str(n) for n in digits]
+        val2 = list(str(int("".join(val))+1))
+        val3 = [int(n) for n in val2]
+        return val3
+        
