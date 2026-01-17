@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2652-sum-multiples](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2652-sum-multiples) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
 | ------- |
