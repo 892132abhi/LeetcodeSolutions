@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0989-add-to-array-form-of-integer) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
