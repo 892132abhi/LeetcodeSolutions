@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1816-truncate-sentence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1816-truncate-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Hash Table
 |  |
