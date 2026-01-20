@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2235-add-two-integers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2427-number-of-common-factors) |
 ## Merge Sort
