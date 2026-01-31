@@ -4,10 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        res= []
-        a = min(nums)
-        b = max(nums)
-        for i in range(a,b):
+        res=[]
+        for i in range(min(nums),max(nums)):
             if i not in nums:
                 res.append(i)
         return res
