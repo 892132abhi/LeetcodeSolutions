@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3731-find-missing-elements](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
