@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2652-sum-multiples) |
