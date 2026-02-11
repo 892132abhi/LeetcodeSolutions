@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1816-truncate-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2129-capitalize-the-title) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1748-sum-of-unique-elements](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1748-sum-of-unique-elements) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1748-sum-of-unique-elements) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
