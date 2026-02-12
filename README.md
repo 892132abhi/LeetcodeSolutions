@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1122-relative-sort-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1672-richest-customer-wealth) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3731-find-missing-elements](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
