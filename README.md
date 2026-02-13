@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3731-find-missing-elements](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Trie
