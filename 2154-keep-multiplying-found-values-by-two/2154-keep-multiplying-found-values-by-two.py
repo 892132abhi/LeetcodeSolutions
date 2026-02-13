@@ -5,11 +5,11 @@ class Solution(object):
         :type original: int
         :rtype: int
         """
-        a = original
+        a =original
         i = True
-        for i in nums:
+        while i:
             if a in nums:
                 a*=2
             else:
-                i = True
+                i = False
         return a
