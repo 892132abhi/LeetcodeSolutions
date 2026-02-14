@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0371-sum-of-two-integers) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
