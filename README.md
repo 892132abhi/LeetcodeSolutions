@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2129-capitalize-the-title) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Greedy
 |  |
