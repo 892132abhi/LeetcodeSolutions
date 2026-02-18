@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1122-relative-sort-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
