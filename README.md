@@ -275,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
