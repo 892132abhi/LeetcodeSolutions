@@ -278,5 +278,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0175-combine-two-tables) |
 | [0627-swap-sex-of-employees](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
