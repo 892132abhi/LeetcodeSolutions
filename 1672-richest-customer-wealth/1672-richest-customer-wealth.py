@@ -4,11 +4,11 @@ class Solution(object):
         :type accounts: List[List[int]]
         :rtype: int
         """
-        res = 0
-        for i in accounts:
-            a = 0
-            for j in i:
-                a+=j
-            if a>res:
-                res = a
+        res=0
+        for a in accounts:
+            n=0
+            for b in a:
+                n+=b
+            if n>res:
+                res = n
         return res
