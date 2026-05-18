@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/892132abhi/LeetcodeSolutions/tree/master/3775-reverse-words-with-same-vowel-count) |
