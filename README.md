@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0069-sqrtx) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
