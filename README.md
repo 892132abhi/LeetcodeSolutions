@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0162-find-peak-element) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0268-missing-number) |
