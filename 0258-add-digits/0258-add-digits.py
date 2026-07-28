@@ -4,14 +4,15 @@ class Solution(object):
         :type num: int
         :rtype: int
         """
-        a = str(num)
+        res=num
         i = True
-        while i :
+        while i:
+            a = str(res)
             if len(a)>1:
-                b=0
+                x = 0
                 for i in a:
-                    b+=int(i)
-                a = str(b)
+                    x+=int(i)
+                res=x
             else:
                 i = False
-        return int(a)
+        return res
