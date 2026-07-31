@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
