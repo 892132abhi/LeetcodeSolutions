@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/892132abhi/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
